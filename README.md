@@ -17,7 +17,8 @@ Die mangelhafte Grammatik diese Rezept gilt als Authenizitätsmerkmal echte schw
 
 ### Methode (mit Küchenmaschine)
 
-1. Alles außer Butter zammischen in eine Schüssel 2. Langsam kneten 5 min
+1. Alles außer Butter zammischen in eine Schüssel 
+2. Langsam kneten 5 min
 3. Schnell kneten 5 min
 4. Butter reinhauen
 5. Langsam kneten 5 min
